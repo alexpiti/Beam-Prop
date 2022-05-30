@@ -37,5 +37,5 @@ myScriptExample4_BPM_MZI_modulator.m
 
 ## References
 
-If used for research, please cite some of my relevant works, e.g., https://ieeexplore.ieee.org/abstract/document/5955059 or https://ieeexplore.ieee.org/abstract/document/9395480
+If this code is used for research papers, be a pal and please cite some of my relevant works, e.g., [this one (thermo-optically tunable plasmonic components)](https://ieeexplore.ieee.org/abstract/document/5955059) or [that one (nonlinear graphene-comprising isolator)](https://ieeexplore.ieee.org/abstract/document/9395480). Both relate to finite-element method implementations, which I plan to soon<sup>TM<\sup> add, too.
 		
