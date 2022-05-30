@@ -15,6 +15,7 @@ function [xR, flag] = myNewtonRaphson( functionHandle , x0 , xLim , ...
 % x0 is the starting "guess" for the root (obligatory input) and xLim are
 % the [lower,upper] x-boundaries where we're allowed to search for a root.
 %
+% GNU General Public License v3.0 | Copyright (c) 2022 Alexandros Pitilakis
 % Alexandros Pitilakis / Thessaloniki, Greece
 % 2015 Sept: Original version
 

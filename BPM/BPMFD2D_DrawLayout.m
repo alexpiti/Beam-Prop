@@ -7,6 +7,7 @@ function BPMFD2D_DrawLayout( AxHandle, SL, x, PMLs, LinCol, xLims )
 %  *** Refer to PreProcLayout for more details on Inputs
 %  *** xLims input is optional.
 %
+% GNU General Public License v3.0 | Copyright (c) 2022 Alexandros Pitilakis
 % Alexandros Pitilakis / Thessaloniki, Greece
 %  2010 Sep : Original version
 %  2015 Nov : Revised version

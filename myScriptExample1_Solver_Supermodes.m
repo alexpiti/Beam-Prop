@@ -1,3 +1,5 @@
+% GNU General Public License v3.0 | Copyright (c) 2022 Alexandros Pitilakis
+
 clear all; close all; clc;
 
 % This ExampleScript studies the supermodes of a SOI-slab WG coupler using

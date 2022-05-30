@@ -40,6 +40,7 @@ function [ neffs , Fy , x_out ] = MLSWG( ModePol , wl , nLR , ns , ts , ...
 %     2. INTERIPV: Graphical solution to the Characteristic-Equation
 %     3. FZERO   : MATLAB's solvers
 %
+% GNU General Public License v3.0 | Copyright (c) 2022 Alexandros Pitilakis
 % Alexandros Pitilakis / Thessaloniki, Greece
 %  2015 Nov: Original version
 

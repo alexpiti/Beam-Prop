@@ -10,6 +10,7 @@ function [ x0 ] = interpinv(x,y,y0,tangent_Tol)
 % sorted in ascending order. Tangent_Tol is a limit for tangent-like 
 % discontinuities, that can be confused for roots. Set to ~10.
 % 
+% GNU General Public License v3.0 | Copyright (c) 2022 Alexandros Pitilakis
 % Alexandros Pitilakis / Thessaloniki, Greece
 %  2015 Nov : Original Version
 

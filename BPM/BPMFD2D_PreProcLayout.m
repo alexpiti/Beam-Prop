@@ -21,6 +21,7 @@ function [ ns , zAxisVector , zVarFlags , zxLines , sx ] = ...
 %  - zxLines : Set of curves in zx-plane defining the sidewalls of WGs
 %  - sx : Nx-by-Nz 2D array, with the PML tensors
 %
+% GNU General Public License v3.0 | Copyright (c) 2022 Alexandros Pitilakis
 % Alexandros Pitilakis / Thessaloniki, Greece
 %  2010 Sep : Original version
 %  2015 Nov : Revised version

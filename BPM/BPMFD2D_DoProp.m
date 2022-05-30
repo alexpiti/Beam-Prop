@@ -76,6 +76,7 @@ function Fi = BPMFD2D_DoProp( Struct_Layout , x , PML_params , xInpProf , nref ,
 %
 % *** ATTENTION: This m.FILE contains two internal functions (bottom).
 %
+% GNU General Public License v3.0 | Copyright (c) 2022 Alexandros Pitilakis
 % Alexandros Pitilakis / Thessaloniki, Greece
 %  2015 Nov : Original Version
 

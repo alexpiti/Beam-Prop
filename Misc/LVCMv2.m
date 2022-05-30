@@ -2,6 +2,7 @@ function [ J ] = LVCMv2( CmapSelect , M , CNNDs )
 
 % Produces various fancy colormaps. Check the comments for more info.
 %
+% GNU General Public License v3.0 | Copyright (c) 2022 Alexandros Pitilakis
 % Alexandros Pitilakis / Thessaloniki, Greece
 %  2009 circa : Original version
 

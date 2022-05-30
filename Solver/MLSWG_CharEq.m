@@ -20,6 +20,7 @@ function [ XE, dXE ] = MLSWG_CharEq( ne, nL, nR, ns, wl, ts, ModePol, ForceReal 
 % difficult. Please note that only the NR and Secant methods can find roots
 % of complex-valued nonlinear equations.
 %
+% GNU General Public License v3.0 | Copyright (c) 2022 Alexandros Pitilakis
 % Alexandros Pitilakis / Thessaloniki, Greece, 
 %  2015 Sept-Oct: Original version
 

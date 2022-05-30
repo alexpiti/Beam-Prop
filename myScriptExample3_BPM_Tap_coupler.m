@@ -1,3 +1,5 @@
+% GNU General Public License v3.0 | Copyright (c) 2022 Alexandros Pitilakis
+
 clc; close all; clear all;
 
 % This ExampleScript uses the FD-BPM to study a SOI-waveguide 10dB tap,

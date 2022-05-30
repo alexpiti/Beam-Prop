@@ -4,6 +4,7 @@ function fmfp( Par )
 % for a MATLAB/Monitor configuration like the one used at the
 % AUTH-Photonics Lab during my PhD
 %
+% GNU General Public License v3.0 | Copyright (c) 2022 Alexandros Pitilakis
 % Alexandros Pitilakis / Thessaloniki, Greece
 %  2010 October
 %  2011 June

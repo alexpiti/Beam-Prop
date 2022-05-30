@@ -7,6 +7,7 @@ function TheLine = flwcs( chars , L )
 % This function fills the length of the current command window with a
 % periodic repetition of the string characters given in chars.
 %
+% GNU General Public License v3.0 | Copyright (c) 2022 Alexandros Pitilakis
 % Alexandros Pitilakis / Thessaloniki, Greece
 %  2009 December
 
